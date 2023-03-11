@@ -1,0 +1,8 @@
+background: linear-gradient(to top right, #ffcc99 0%, #cc6699 100%);
+#cc6699
+#34d0a4 - light milk green
+#ab2247 - pink red
+#ffcccc - light pink
+#ccccff -purple
+#ff8080 
+#ff4d4d
